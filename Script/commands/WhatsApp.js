@@ -17,6 +17,6 @@ module.exports.run = async ({
   if (!_0x1f403c) {
     _0x3f337e.sendMessage("Please enter a wp number", _0x28c24b.threadID, _0x28c24b.messageID);
   } else {
-    _0x3f337e.sendMessage("wa.me/+88" + _0x1f403c, _0x28c24b.threadID, _0x28c24b.messageID);
+    _0x3f337e.sendMessage("wa.me/+91" + _0x1f403c, _0x28c24b.threadID, _0x28c24b.messageID);
   }
 };
